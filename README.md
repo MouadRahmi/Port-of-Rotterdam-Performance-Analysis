@@ -55,31 +55,37 @@ The dashboard includes:
 - Throughput Change 2020–2025
 - Year-over-Year Throughput Change
 
-## Key Findings
+## Analysis & Interpretation
 
-- Total throughput peaked in 2021 and ended 2025 approximately 1.93% below its 2020 level.
-- Container activity recovered in 2024 and 2025 while overall port throughput continued to decline.
-- Liquid bulk remained the largest cargo category throughout the analyzed period.
-- Dry bulk, liquid bulk, and breakbulk recorded particularly strong volumes in 2022.
-- Container share increased from 29.66% in 2023 to 31.09% in 2025.
+### Total Throughput
 
-- ## Analysis & Interpretation
-
-### Total Throughput Trend
-
-Total throughput increased from 436.8 million tonnes in 2020 to a peak of 468.7 million tonnes in 2021. It remained relatively stable in 2022 before declining from 2023 onward. By 2025, throughput had fallen to 428.4 million tonnes, approximately 1.93% below its 2020 level.
+- Total throughput increased from 436.8 million tonnes in 2020 to 468.7 million tonnes in 2021, representing a 7.3% increase.
+- Throughput remained broadly stable in 2022 before declining by 6.1% in 2023 to 438.8 million tonnes, the largest annual decline during the period.
+- The decline continued in 2024 and 2025, with throughput reaching 428.4 million tonnes in 2025.
+- The strong increase in 2021 coincided with the recovery of international trade following the COVID-19 disruption. Subsequent weakness was associated with geopolitical and economic pressures affecting European trade and industry.
 
 ### Container Traffic (TEU)
 
-Container traffic reached its highest level in 2021 at approximately 15.3 million TEU. Volumes declined in 2022 and 2023 before recovering in 2024 and 2025. The recovery in TEU occurred while total port throughput continued to decline, indicating a stronger relative performance of container traffic.
+- Container traffic increased from 14.35 million TEU in 2020 to 15.30 million TEU in 2021, a 6.6% increase and the highest level of the period.
+- TEU volumes declined by 5.5% in 2022 and a further 7.0% in 2023, reaching the period's lowest level of 13.45 million TEU.
+- Traffic recovered by 2.8% in 2024 and another 3.1% in 2025, reaching 14.24 million TEU.
+- Despite the recovery, 2025 container traffic remained below the 2021 peak.
+- The decline after 2021 was influenced by the reduction in container traffic with Russia and weaker European demand, while volumes recovered during 2024–2025.
 
 ### Container Share
 
-Containers represented 34.58% of total throughput in 2020. The share declined to 29.66% in 2023 before recovering to 31.09% in 2025. This indicates that container activity regained importance within the port's overall cargo mix during the final two years of the analysis.
+- Container share declined from 34.58% in 2020 to 32.96% in 2021 even though container throughput increased, because total port throughput grew faster than container cargo.
+- The share continued to decline through 2022 and 2023, reaching a low of 29.66% in 2023.
+- It then recovered to 30.61% in 2024 and 31.09% in 2025.
+- The recovery reflects improving container volumes combined with declining overall port throughput, causing containers to represent a larger proportion of Rotterdam's cargo mix.
 
 ### Cargo Throughput by Category
 
-Liquid bulk remained the largest cargo category throughout 2020–2025. Liquid bulk, dry bulk, and breakbulk recorded particularly high volumes in 2022, while container throughput had reached its highest level in 2021. Several categories declined after 2022, contributing to the overall reduction in total port throughput.
+- Liquid bulk remained the largest cargo category throughout 2020–2025, rising from approximately 192.0 million tonnes in 2020 to a peak of 212.8 million tonnes in 2022 before declining to 197.0 million tonnes in 2025.
+- Containers were the second-largest category, peaking at 154.5 million tonnes in 2021 before declining to 130.2 million tonnes in 2023 and recovering slightly to around 133 million tonnes in 2024–2025.
+- Dry bulk increased from 63.8 million tonnes in 2020 to 80.1 million tonnes in 2022 before declining to 66.6 million tonnes in 2025.
+- Breakbulk remained the smallest category, reaching a peak of 34.9 million tonnes in 2022 and ending 2025 at 31.7 million tonnes.
+- Overall, the cargo mix remained relatively stable, with liquid bulk dominant, followed by containers, dry bulk, and breakbulk.
 
 ## Dashboard
 
