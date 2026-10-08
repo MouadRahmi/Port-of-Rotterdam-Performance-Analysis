@@ -63,6 +63,24 @@ The dashboard includes:
 - Dry bulk, liquid bulk, and breakbulk recorded particularly strong volumes in 2022.
 - Container share increased from 29.66% in 2023 to 31.09% in 2025.
 
+- ## Analysis & Interpretation
+
+### Total Throughput Trend
+
+Total throughput increased from 436.8 million tonnes in 2020 to a peak of 468.7 million tonnes in 2021. It remained relatively stable in 2022 before declining from 2023 onward. By 2025, throughput had fallen to 428.4 million tonnes, approximately 1.93% below its 2020 level.
+
+### Container Traffic (TEU)
+
+Container traffic reached its highest level in 2021 at approximately 15.3 million TEU. Volumes declined in 2022 and 2023 before recovering in 2024 and 2025. The recovery in TEU occurred while total port throughput continued to decline, indicating a stronger relative performance of container traffic.
+
+### Container Share
+
+Containers represented 34.58% of total throughput in 2020. The share declined to 29.66% in 2023 before recovering to 31.09% in 2025. This indicates that container activity regained importance within the port's overall cargo mix during the final two years of the analysis.
+
+### Cargo Throughput by Category
+
+Liquid bulk remained the largest cargo category throughout 2020–2025. Liquid bulk, dry bulk, and breakbulk recorded particularly high volumes in 2022, while container throughput had reached its highest level in 2021. Several categories declined after 2022, contributing to the overall reduction in total port throughput.
+
 ## Dashboard
 
 ### Port Performance Overview
