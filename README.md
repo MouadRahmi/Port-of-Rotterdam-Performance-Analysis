@@ -19,11 +19,10 @@ The analysis was developed in Excel and then transformed into an interactive Pow
 
 ## Tools Used
 
-- Microsoft Excel
-- Microsoft Power BI
-- DAX
-- Data visualization
-- KPI analysis
+- Microsoft Excel — data preparation, calculations, KPI analysis, and initial dashboarding
+- Microsoft Power BI — interactive dashboard development and data visualization
+- DAX — custom measures for throughput, TEU, container share, and year-over-year analysis
+- GitHub — project documentation and portfolio presentation
 
 ## Dataset
 
