@@ -58,6 +58,14 @@ The dashboard includes:
 
 ## Dashboard
 
+### Port Performance Overview
+
+![Port Performance Overview](dashboard-overview.png)
+
+### Interactive Analysis
+
+![Interactive Analysis](interactive-analysis.png)
+
 The Power BI report contains two pages:
 
 ### Port Performance Overview
