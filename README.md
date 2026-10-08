@@ -6,6 +6,14 @@ An independent data analysis project examining the operational performance of th
 
 This project analyzes six years of official Port of Rotterdam data to evaluate changes in total cargo throughput, container activity, cargo composition, and year-over-year performance.
 
+## Project Highlights
+
+- Analyzed 6 years of official Port of Rotterdam data
+- Built KPI analysis in Microsoft Excel
+- Developed a two-page interactive Power BI dashboard
+- Created DAX measures for throughput, TEU, container share, and year-over-year change
+- Evaluated cargo composition and long-term port performance trends
+
 The analysis was developed in Excel and then transformed into an interactive Power BI dashboard containing an overview page and a selected-year analysis page.
 
 ## Objectives
