@@ -60,11 +60,11 @@ The dashboard includes:
 
 ### Port Performance Overview
 
-![Port Performance Overview](dashboard-overview.png)
+![Port Performance Overview](Rotterdam%20Port%20Performance%20Dashboard.png)
 
 ### Interactive Analysis
 
-![Interactive Analysis](interactive-analysis.png)
+![Interactive Analysis](Interactive%20Analysis.png)
 
 The Power BI report contains two pages:
 
